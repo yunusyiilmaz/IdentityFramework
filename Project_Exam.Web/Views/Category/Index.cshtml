@@ -1,0 +1,19 @@
+﻿@model Project_Exam.Models.CategoryListViewModel
+@{
+    Layout = "_Layout";
+}
+<h1>Kategori Seçenekleri</h1>
+
+<table class="table table-responsive">
+    @foreach (var category in Model.Categories)
+    {
+        <tr>
+            <td>@category.Name</td>           
+            <td><a href="/Category/UpdateCategory?categoryId=@category.Id" class="btn btn-outline-info">Güncelle</a></td>
+            <td><a href="/Category/DeleteCategory?categoryId=@category.Id" class="btn btn-danger">Sil</a></td>
+
+        </tr>
+    }
+</table>
+<a href="/Category/AddCategory/" class="btn btn-primary">Kategori Ekle</a>
+

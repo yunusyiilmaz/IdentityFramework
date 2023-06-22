@@ -1,0 +1,96 @@
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Service.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Service.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\bin\Debug\net6.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Service.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\bin\Debug\net6.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Service\obj\Debug\net6.0\ref\Service.dll

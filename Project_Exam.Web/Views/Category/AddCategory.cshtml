@@ -1,0 +1,14 @@
+﻿@model AddCategoryViewModel
+@{
+    Layout = "_Layout";
+}
+<h1>Kategori Ekleme Sayfası</h1>
+<form method="post">
+
+    @Html.Label("Kategori Adı")
+    @Html.TextBoxFor(x => x.Name,new { @class = "form-control" })<span asp-validation-for="Name"></span>
+    <br />
+    <button class="btn btn-outline-info">KAYDET</button>
+</form>
+<script src="~/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/myhub.js"></script>

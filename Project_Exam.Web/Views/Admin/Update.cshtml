@@ -1,0 +1,70 @@
+﻿@model Project_Exam.Web.Models.UserViewModel
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Güncelleme Sayfası</h1>
+
+<hr />
+<script src="~/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/myhub.js"></script>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update" id="updateUserForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            @*            <div class="form-group">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+            </div>*@
+            <br />
+            @Html.Label("Rol Seçimi")
+            @Html.DropDownListFor(x => x.SelectedAppRoleId, Model.App, new {@class="form-control role-dd"})
+            <br />
+            <input id="hdn-userId" type="hidden" value="@Model.Id" />
+            <div class="form-group">
+                <input id='updateUserBtn' type="submit" value="Güncelle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@*<script>
+    $(document).ready(function() {
+        let currentRoleId = $('.role-dd').val();
+        let newRoleId = currentRoleId;
+        $('.role-dd').change(function() {
+            newRoleId = this.value;
+        });
+
+
+        $('#updateUserBtn').click(function(e) {
+
+            e.preventDefault();
+
+            if (newRoleId !== currentRoleId) {
+                const userId = $('#hdn-userId').val();
+                myHubFunctions.ChangeUserRole(userId, newRoleId);
+            }
+
+            $('#updateUserForm').submit();
+        });
+
+    });
+</script>*@
+

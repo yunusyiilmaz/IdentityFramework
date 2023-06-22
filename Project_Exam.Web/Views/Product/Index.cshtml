@@ -1,0 +1,11 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<h1>Ürünler</h1>
+
+    <td>  @await Component.InvokeAsync("ProductList")</td>
+
+<a href="/Product/AddProduct/" class="btn btn-primary">Yeni ürün girişi</a>
+<br />
+

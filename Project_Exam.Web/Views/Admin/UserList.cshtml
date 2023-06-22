@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Project_Exam.Web.Models.RoleViewModel>
+
+@{
+    ViewData["Title"] = "UserList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>UserList</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>Rol Bilgisi</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td user-roles="@item.Id"></td>
+                <td>
+                    @Html.ActionLink("Güncelle", "Update", new {  id=item.Id  }) |
+                </td>
+                    
+                <td>
+                    @Html.ActionLink("Sil", "Delete", new {  id=item.Id  })
+                </td>
+            </tr>
+        }
+    <td><a href="/Admin/CreateUser" class="btn btn-primary">Kullanıcı Oluştur</a></td>
+    </tbody>
+</table>
+

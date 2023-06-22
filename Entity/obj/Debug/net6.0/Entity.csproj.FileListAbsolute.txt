@@ -1,0 +1,84 @@
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Entity\obj\Debug\net6.0\ref\Entity.dll

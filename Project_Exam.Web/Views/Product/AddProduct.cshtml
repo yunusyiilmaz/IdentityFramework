@@ -1,0 +1,23 @@
+﻿@model AddProductViewModel
+@{
+    Layout = "_Layout";
+}
+<h1>Ürün Ekleme Sayfası</h1>
+<form method="post">
+
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.Name,new { @class = "form-control" })<span asp-validation-for="Name" class="text-danger"></span>
+    <br />    
+    @Html.Label("Fiyat")
+    @Html.TextBoxFor(x => x.Price,new { @class = "form-control" })<span asp-validation-for="Price" class="text-danger"></span>
+    <br />
+    @Html.Label("Stok")
+    @Html.TextBoxFor(x => x.UnitQuantity,new { @class = "form-control" })<span asp-validation-for="UnitQuantity" class="text-danger"></span>
+    <br />
+    @Html.Label("Kategori")
+    @Html.DropDownListFor(x => x.SelectedCategoryId, Model.Categories, new {@class="form-control"})
+    <br />
+    <button class="btn btn-outline-info">KAYDET</button>
+</form>
+<script src="~/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/myhub.js"></script>

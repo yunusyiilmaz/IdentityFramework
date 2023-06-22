@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Service\\Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Database\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Database\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Database\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\yunus.yılmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yunus.yılmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\yunus.yılmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yunus.yılmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\yunus.yılmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yunus.yılmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Database\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Database\\DataAccess.csproj"
+              },
+              "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\yunus.yılmaz\\Desktop\\Projeler\\Project_Exam\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

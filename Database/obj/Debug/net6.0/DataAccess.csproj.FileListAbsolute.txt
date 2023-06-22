@@ -1,0 +1,90 @@
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam - Kopya\Database\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\Entity.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\bin\Debug\net6.0\Entity.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\YILMAZBOYS\Desktop\YUNUS YAZILIM DOYALARI\Projeck_Exam\Database\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\Entity.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\bin\Debug\net6.0\Entity.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\EMRE\Desktop\Yazılım dosyaları\Project_Exam\Database\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\Concrete\Context\appsettings.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\Entity.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\bin\Debug\net6.0\Entity.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\yunus.yılmaz\Desktop\Projeler\Project_Exam\Database\obj\Debug\net6.0\ref\DataAccess.dll

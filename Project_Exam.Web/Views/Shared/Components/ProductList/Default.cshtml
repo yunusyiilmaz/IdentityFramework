@@ -1,0 +1,33 @@
+﻿@model Project_Exam.Models.ProductListViewModel
+
+@if (Model.Products.Any())
+{
+
+    <table class="table table-responsive">
+        <tr>
+            <td>ÜRÜN ADI</td>
+            <td>FİYAT</td>
+            <td>MİKTAR</td>
+            <td>KATEGORİ ADI</td>
+        </tr>
+        @foreach (var product in Model.Products)
+        {
+           
+            <tr>
+                <td>@product.Name</td>
+                @*<span asp-validation-for="Name" class="text-danger"></span>*@
+                <td>@product.Price</td>
+                <td>@product.UnitQuantity</td>
+                <td>@product.Category.Name</td>
+                <td><a href="/Product/UpdateProduct?productId=@product.Id" class="btn btn-outline-info">Güncelle</a></td>
+                <td><a href="/Product/DeleteProduct?productId=@product.Id" class="btn btn-danger">Sil</a></td>
+
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h5>Kategoride ürün bilgisi bulunmamaktadır.</h5>
+}
+
